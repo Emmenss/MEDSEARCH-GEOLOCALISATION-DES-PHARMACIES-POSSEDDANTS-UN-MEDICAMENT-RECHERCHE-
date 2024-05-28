@@ -5,10 +5,10 @@ Notre objective avec MEDSEARCH est de mettre fin à la quête souvent stressante
 
 ***Technologies Utilisées
 
-Framework : Laravel (PHP) pour une structure solide et évolutive.
-API de Cartographie : Leaflet (JavaScript) pour intégrer des cartes interactives dans l'application.
-Cartes : OpenStreetMap pour une cartographie détaillée et précise.
-Style : Bootstrap pour un design élégant et réactif, assurant une expérience utilisateur cohérente sur tous les appareils.
+* Framework : Laravel (PHP) pour une structure solide et évolutive.
+* API de Cartographie : Leaflet (JavaScript) pour intégrer des cartes interactives dans l'application.
+* Cartes : OpenStreetMap pour une cartographie détaillée et précise.
+* Style : Bootstrap pour un design élégant et réactif, assurant une expérience utilisateur cohérente sur tous les appareils.
 
 
 ## Table of Contents
