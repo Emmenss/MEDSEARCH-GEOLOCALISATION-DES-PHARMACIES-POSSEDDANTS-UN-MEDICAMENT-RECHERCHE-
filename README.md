@@ -1,42 +1,6 @@
 <<<<<<< HEAD
 # MEDSEARCH-GEOLOCALISATION-DES-PHARMACIES-POSSEDDANTS-UN-MEDICAMENT-RECHERCHE-
 MEDSARCH est une application web conçue pour simplifier la recherche des medicaments dans une localité. Imaginons un instant que vous ou l'un de vos proches ayez besoin d'un medicament en urgent, mais vous ne savez pas où le trouver de manière precise . C'est là que MEDSEARCH entre en jeu
-=======
-# [Soft UI Dashboard Laravel](https://soft-ui-dashboard-laravel.creative-tim.com/login)
-
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-laravel/issues?q=is%3Aopen+is%3Aissue) 
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-laravel/issues?q=is%3Aissue+is%3Aclosed)
-
-
-*Frontend version*: Soft UI Dashboard v1.0.0. More info at https://www.creative-tim.com/product/soft-ui-dashboard
-
-[<img src="https://s3.amazonaws.com/creativetim_bucket/products/602/original/soft-ui-dashboard-laravel.jpg" width="100%" />](https://soft-ui-dashboard-laravel.creative-tim.com/dashboard)
-  
-
-## Free Frontend Web App for Laravel
-What happens when you combine Soft UI, one of the hottest design trends right now, and Laravel?  We've partnered with [UPDIVISION](https://updivision.com/) to create the ultimate design & development toolbox. 
-
-Soft UI Dashboard Laravel comes with dozens of handcrafted UI elements tailored for Bootstrap 5 and an out of the box Laravel backend.
-
-## What am I getting?
-You're getting a multi-purpose tool for building complex apps.
-
-Soft UI Dashboard PRO Laravel at a glance:
-* 70 handcrafted UI components. From buttons and inputs to navbars and cards, everything is designed to create visually cohesive interfaces.  
-* 7 example pages to get you started
-* fully-functional authentication system, register and user profile editing features built with Laravel
-* Documentation for each component so you can get started fast
-
-## Free for personal and commercial projects
-Whether you're working on a side project or delivering to a client, we've got you covered. Soft UI Dashboard Laravel is released under MIT license, so you can use it both for personal and commercial projects for free. All you need to do is start coding. 
-
-
-## Detailed documentation and example pages
-We also included detailed documentation for every component and feature so you can follow along. The pre-built example pages give you a quick glimpse of what Soft UI Dashboard Laravel has to offer so you can get started in no time. 
-
-If you want to get more features, go PRO with [Soft UI Dashboard PRO Laravel](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel).
 
 ## Table of Contents
 
