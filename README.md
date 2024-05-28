@@ -1,6 +1,15 @@
 <<<<<<< HEAD
 # MEDSEARCH-GEOLOCALISATION-DES-PHARMACIES-POSSEDDANTS-UN-MEDICAMENT-RECHERCHE-
 MEDSARCH est une application web conçue pour simplifier la recherche des medicaments dans une localité. Imaginons un instant que vous ou l'un de vos proches ayez besoin d'un medicament en urgent, mais vous ne savez pas où le trouver de manière precise . C'est là que MEDSEARCH entre en jeu
+Notre objective avec MEDSEARCH est de mettre fin à la quête souvent stressante de médicaments en aidant les utilisateurs à localiser rapidement les pharmacies qui ont le médicament recherché en stock en offrant une plateforme simple et  conviviale qui relie les utilisateurs aux pharmacies locales.
+
+***Technologies Utilisées
+
+Framework : Laravel (PHP) pour une structure solide et évolutive.
+API de Cartographie : Leaflet (JavaScript) pour intégrer des cartes interactives dans l'application.
+Cartes : OpenStreetMap pour une cartographie détaillée et précise.
+Style : Bootstrap pour un design élégant et réactif, assurant une expérience utilisateur cohérente sur tous les appareils.
+
 
 ## Table of Contents
 
